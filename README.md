@@ -1,1 +1,1 @@
-# foodie
+# Angular Foodie
